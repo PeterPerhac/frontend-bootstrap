@@ -5,6 +5,10 @@ frontend-bootstrap
 
 ## This library is in maintanance mode. We recommend migrating to bootstrap-play-{25,26}.
 
+We recommend migrating to bootstrap-play-{25,26}: 
+- [bootstrap-play-2.5](https://github.com/hmrc/bootstrap-play-25)
+- [bootstrap-play-2.6](https://github.com/hmrc/bootstrap-play-26)
+
 This library implements a basic Play Global object and related functionality for frontend applications.
 
 ### Creating a Global object for your frontend application
